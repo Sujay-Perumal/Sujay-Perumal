@@ -2,18 +2,6 @@
 <h1 align="center">👋 Hi, I'm <span style="color:#f06292">Sujay Perumal</span></h1>
 <h3 align="center">Data Analyst • BI Developer • Python & SQL Enthusiast</h3>
 
-<p align="center">
-  <a href="https://github.com/Sujay-Perumal">
-    <img src="https://img.shields.io/github/followers/Sujay-Perumal?label=Follow&style=social" />
-  </a>
-  <a href="https://www.linkedin.com/in/sujay-perumal">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://public.tableau.com/app/profile/sujay.perumal/vizzes">
-    <img src="https://img.shields.io/badge/Tableau-Public-005FBF?style=flat&logo=tableau&logoColor=white" />
-  </a>
-</p>
-
 ---
 
 ## 🔥 About Me  
@@ -26,7 +14,6 @@ I enjoy solving problems, building dashboards, and creating clean & structured d
 <p align="center">
   <!-- Languages -->
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-005E86?style=for-the-badge&logo=mysql&logoColor=white" />
 
   <!-- Web Dev -->
@@ -37,6 +24,13 @@ I enjoy solving problems, building dashboards, and creating clean & structured d
   <!-- Python Data Libraries -->
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  
+  <!-- Python Visualization Libraries -->
+  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=matplotlib&logoColor=white" />
+  <img src="https://img.shields.io/badge/Seaborn-4C8CBF?style=for-the-badge&logo=seaborn&logoColor=white" />
+
+  <!-- Cloud -->
+  <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" />
 
   <!-- BI Tools -->
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
@@ -105,7 +99,6 @@ I enjoy solving problems, building dashboards, and creating clean & structured d
 ## 🎯 Goals  
 - Build more **end-to-end data analytics solutions**  
 - Improve advanced **DAX**, **Pandas**, and **Tableau** techniques  
-- Learn **cloud databases** (AWS RDS, Azure SQL)  
 - Develop reusable **BI templates & components**
 
 ---

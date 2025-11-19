@@ -122,11 +122,6 @@ I enjoy solving problems, building dashboards, and creating clean & structured d
 
 ---
 
-
-- **Tableau Public**: [public.tableau.com/app/profile/sujay.perumal/vizzes](https://public.tableau.com/app/profile/sujay.perumal/vizzes)  
-
----
-
 >  
 Thank you for visiting my profile — feel free to explore my work or reach out for collaboration!  
 

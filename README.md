@@ -1,73 +1,132 @@
-# Hi there, I’m **Sujay Perumal** 👋  
-_Data-driven developer & analyst based in London, UK._
+<!-- Banner -->
+<h1 align="center">👋 Hi, I'm <span style="color:#f06292">Sujay Perumal</span></h1>
+<h3 align="center">Data Analyst • BI Developer • Python & SQL Enthusiast</h3>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-sujay-perumal-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/sujay-perumal)  
-[![Tableau Public](https://img.shields.io/badge/Tableau-Public-profile-007ACC?style=flat&logo=tableau)](https://public.tableau.com/app/profile/sujay.perumal/vizzes)  
-
----
-
-## 🚀 About Me  
-- I specialise in **data analysis**, **dashboarding**, **backend automation**, and **database systems**.  
-- I build solutions using **Python**, **SQL**, **Excel**, and visualise insights with **Tableau**.  
-- I enjoy cleaning messy data, designing dashboards, and building structured systems for managing information.  
-- I’m always learning new tools and techniques to extract more value from data and build better tech.
-
----
-
-## 📊 Skills & Tech Stack  
-
-| Category | Technologies & Tools |
-|----------|----------------------|
-| Programming | Python, Jupyter Notebooks |
-| Databases | MySQL, SQL |
-| Data Analysis & BI | Excel (pivot tables, formulas), Tableau, data cleaning & transformation |
-| Dev Tools & Misc | Git, GitHub, Markdown, basic automation |
-| Workflow | ETL / data pipelines, dashboard design, HR/employee-management systems |
+<p align="center">
+  <a href="https://github.com/Sujay-Perumal">
+    <img src="https://img.shields.io/github/followers/Sujay-Perumal?label=Follow&style=social" />
+  </a>
+  <a href="https://www.linkedin.com/in/sujay-perumal">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://public.tableau.com/app/profile/sujay.perumal/vizzes">
+    <img src="https://img.shields.io/badge/Tableau-Public-005FBF?style=flat&logo=tableau&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-## 🧰 Selected Projects  
-
-Here are some of my repositories that showcase my skills:
-
-- **[Employee-Management-System](https://github.com/Sujay-Perumal/Employee-Management-System)** – A Python application to manage employee records, authentication, and HR-style data operations.  
-- **[Excel-Retail-Sales-Dataset-Project](https://github.com/Sujay-Perumal/Excel-Retail-Sales-Dataset-Project)** – Retail sales dataset cleaned and analysed in Excel, with insights from pivot tables and advanced formulas.  
-- **[Excel-Bike-Sales-Dataset-Project](https://github.com/Sujay-Perumal/Excel-Bike-Sales-Dataset-Project)** – Exploration of bike-sales data; visualised findings, identified trends, used Excel for cleaning & insight generation.  
-- **[Tableau-Spotify-Database-Dashboard](https://github.com/Sujay-Perumal/Tableau-Spotify-Database-Dashboard)** – Dashboard built in Tableau analysing Spotify datasets, highlighting listenership trends, genres, user behaviour.  
-- **[MySQL-Word-Database-Project](https://github.com/Sujay-Perumal/MySQL-Word-Database-Project)** – Integration between a Word-format dataset and MySQL backend for structured storage and retrieval.  
-- **[ATM-Challenge-Python](https://github.com/Sujay-Perumal/ATM-Challenge-Python)** – Coding challenge: simulation of ATM operations in Python, emphasising logic, user flow and error-handling.
+## 🔥 About Me  
+I transform raw data into meaningful insights using **Python**, **SQL**, **Power BI**, **Tableau**, and **Excel**.  
+I enjoy solving problems, building dashboards, and creating clean & structured data workflows.
 
 ---
 
-## 📈 GitHub Stats  
-[![Sujay’s GitHub stats](https://github-readme-stats.vercel.app/api?username=Sujay-Perumal&show_icons=true&theme=radical)](https://github.com/Sujay-Perumal)  
-*(Uses the GitHub Readme Stats tool) :contentReference[oaicite:1]{index=1}*
+## 🎨 Tech Stack  
+<p align="center">
+  <!-- Languages -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-005E86?style=for-the-badge&logo=mysql&logoColor=white" />
+
+  <!-- Web Dev -->
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+
+  <!-- Python Data Libraries -->
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+
+  <!-- BI Tools -->
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+
+  <!-- Data Tools -->
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+
+</p>
+
+
 
 ---
 
-## 🎯 My Goals & Where I’m Heading  
-1. Build more **interactive Tableau dashboards** pulling live data (e.g., Spotify API, financial APIs).  
-2. Develop **data pipelines** to automate ingestion, transformation and loading of data into dashboards.  
-3. Expand backend skills — for example, work with **cloud databases** (PostgreSQL, AWS RDS) and backend frameworks.  
-4. Contribute to open-source analytical tools or build a personal library for reusable data/analysis utilities.  
-5. Sharpen skills in **data storytelling** — using data not just to show “what”, but “why” and “what next”.
+## 🗂️ Featured Projects (All Repos)
+
+### 🐍 Python & Data Analysis  
+| Project | Description |
+|--------|-------------|
+| 🚀 **[Employee-Management-System](https://github.com/Sujay-Perumal/Employee-Management-System)** | Python CRUD system for managing employee data |
+| 📘 **[Python-Pandas-Practice](https://github.com/Sujay-Perumal/Python-Pandas-Practice)** | Data manipulation & EDA practice notebooks |
+| 🏧 **[ATM-Challenge-Python](https://github.com/Sujay-Perumal/ATM-Challenge-Python)** | ATM simulation challenge with input validation |
 
 ---
 
-## 📚 Certifications & Continuous Learning  
-- Completed data analysis courses covering Excel, SQL, Tableau, and data visualisation.  
-- Regularly engage with datasets and dashboarding challenges to refine my skills.  
-- Experimenting with automation, integration and backend systems to expand beyond dashboards.
+### 🗄️ SQL & Database Projects  
+| Project | Description |
+|--------|-------------|
+| 🗃️ **[MySQL-Word-Database-Project](https://github.com/Sujay-Perumal/MySQL-Word-Database-Project)** | Converting Word dataset into structured MySQL tables |
+| 🧱 **[MySQL-Northwind-Database-Project](https://github.com/Sujay-Perumal/MySQL-Northwind-Database-Project)** | Northwind schema + business SQL queries |
 
 ---
 
-## 📫 Let’s Connect  
-- **LinkedIn**: [linkedin.com/in/sujay-perumal](https://www.linkedin.com/in/sujay-perumal)  
+### 📊 Excel Analytics  
+| Project | Description |
+|--------|-------------|
+| 🛍️ **[Excel-Retail-Sales-Dataset-Project](https://github.com/Sujay-Perumal/Excel-Retail-Sales-Dataset-Project)** | Retail sales analysis with pivots & dashboards |
+| 🚴 **[Excel-Bike-Sales-Dataset-Project](https://github.com/Sujay-Perumal/Excel-Bike-Sales-Dataset-Project)** | Bike sales EDA & Excel reporting |
+
+---
+
+### 📈 Power BI Dashboards  
+| Project | Description |
+|--------|-------------|
+| 📦 **[Power-BI-Adventure-Works-Dataset-Dashboard](https://github.com/Sujay-Perumal/Power-BI-Adventure-Works-Dataset-Dashboard)** | Full business dashboard with DAX KPIs |
+| 💼 **[Power-BI-Sales-Dataset-Dashboard](https://github.com/Sujay-Perumal/Power-BI-Sales-Dataset-Dashboard)** | Sales insights with cards, maps, and drilldowns |
+
+---
+
+### 🔷 Tableau Dashboards  
+| Project | Description |
+|--------|-------------|
+| 🎵 **[Tableau-Spotify-Database-Dashboard](https://github.com/Sujay-Perumal/Tableau-Spotify-Database-Dashboard)** | Spotify analytics dashboard |
+| 🌍 **[Tableau-Global-Health-Insights-Project](https://github.com/Sujay-Perumal/Tableau-Global-Health-Insights-Project)** | Global health KPIs & map insights |
+
+---
+
+## 📈 GitHub Analytics  
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Sujay-Perumal&show_icons=true&theme=radical" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Sujay-Perumal&theme=radical" />
+</div>
+
+---
+
+## 🎯 Goals  
+- Build more **end-to-end data analytics solutions**  
+- Improve advanced **DAX**, **Pandas**, and **Tableau** techniques  
+- Learn **cloud databases** (AWS RDS, Azure SQL)  
+- Develop reusable **BI templates & components**
+
+---
+
+## 📫 Connect With Me  
+<p align="center">
+  <a href="https://www.linkedin.com/in/sujay-perumal">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://public.tableau.com/app/profile/sujay.perumal/vizzes">
+    <img src="https://img.shields.io/badge/Tableau-View%20Dashboards-orange?style=for-the-badge&logo=tableau" />
+  </a>
+</p>
+
+---
+
+
 - **Tableau Public**: [public.tableau.com/app/profile/sujay.perumal/vizzes](https://public.tableau.com/app/profile/sujay.perumal/vizzes)  
 
 ---
 
-> “Without data, you’re just another person with an opinion.” — W. Edwards Deming  
 >  
 Thank you for visiting my profile — feel free to explore my work or reach out for collaboration!  
 

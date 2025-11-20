@@ -85,6 +85,14 @@ I enjoy solving problems, building dashboards, and creating clean & structured d
 |--------|-------------|
 | 🎵 **[Tableau-Spotify-Database-Dashboard](https://github.com/Sujay-Perumal/Tableau-Spotify-Database-Dashboard)** | Spotify analytics dashboard |
 | 🌍 **[Tableau-Global-Health-Insights-Project](https://github.com/Sujay-Perumal/Tableau-Global-Health-Insights-Project)** | Global health KPIs & map insights |
+| 🏢 **[Tableau-EMSI-UK-Dashboard](https://github.com/Sujay-Perumal/Tableau-EMSI-UK-Dashboard)** | UK Job change Dashboard |
+
+---
+
+### 🌐 Cloud Learning
+| Project | Description |
+|--------|-------------|
+| ☁️ **[Azure-Data-Fundamentals](https://github.com/Sujay-Perumal/Azure-Data-Fundamentals)** | Azure and Data Governance Learning |
 
 ---
 

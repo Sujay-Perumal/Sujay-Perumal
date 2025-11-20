@@ -77,7 +77,7 @@ I enjoy solving problems, building dashboards, and creating clean & structured d
 |--------|-------------|
 | 📦 **[Power-BI-Adventure-Works-Dataset-Dashboard](https://github.com/Sujay-Perumal/Power-BI-Adventure-Works-Dataset-Dashboard)** | Full business dashboard with DAX KPIs |
 | 💼 **[Power-BI-Sales-Dataset-Dashboard](https://github.com/Sujay-Perumal/Power-BI-Sales-Dataset-Dashboard)** | Sales insights with cards, maps, and drilldowns |
-| 📈 **[Power-BI-Executive-Sales-Report](https://github.com/Sujay-Perumal/Power-BI-Executive-Sales-Report)** | Sales and profit insight with cross visual filters |
+| 📈 **[Power-BI-Executive-Summary-Finance-Report](https://github.com/Sujay-Perumal/Power-BI-Executive-Summary-Finance-Report)** | Sales and profit insight with cross visual filters |
 
 ---
 

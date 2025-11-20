@@ -123,6 +123,6 @@ I enjoy solving problems, building dashboards, and creating clean & structured d
 
 ---
 
->  
-Thank you for visiting my profile — feel free to explore my work or reach out for collaboration!  
+## ✨ Want to collaborate?
+Feel free to explore my work or reach out for collaboration!  
 
